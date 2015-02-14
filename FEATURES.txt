@@ -1,0 +1,13 @@
+Features to be Incorporated :
+
+1- Course Statistics for different professors for past years.
+2- Given Slot and departments , predict available course options.
+3- Course search with curriculum keyword.
+4- Registered Students.
+5- Professor Wise course stats for past years.
+6- Course vs Slot Statistics.
+7- Customizable Nice Looking TimeTable for Student.
+
+
+Hidden Feature :
+1- Course Stalker.

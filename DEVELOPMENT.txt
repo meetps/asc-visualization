@@ -1,0 +1,7 @@
+Non-Redundant Parts of Code to be written :
+
+1- Login using urllib / requests and being able to access data from site.
+2- Parsing Course Stats, Slots, and Professor Details into SQL databases.
+3- Admin Page for data-updation.
+4- PLotting Data and display (with deletion after use) using plotly library.
+5- Making PDF /ICS format of timetable in a beautiful format.
